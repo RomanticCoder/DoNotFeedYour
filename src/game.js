@@ -1,6 +1,5 @@
 import * as Sound from './sound.js';
 import {Field, ItemType} from './field.js';
-import PopUp from './popup.js';
 
 export class GameBuilder {
 
